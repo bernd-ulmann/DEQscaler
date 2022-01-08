@@ -14,5 +14,4 @@ denoting the "machine units" of the analog computer).
 ...
 
 # Funding
-This development was funded by 
 <img src="pictures/hmdis_logo.jpg" alt="HMDIS-Logo" width="300"/>
