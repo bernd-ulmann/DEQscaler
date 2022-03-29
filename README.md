@@ -185,7 +185,7 @@ manual_maxima[z] = 2.7
 
 """
 Alternatively with same effect:
-man_max = [12, 11, 23]
+man_max = [12, 11, 2.7]
 manual_maxima = {ele[0] : man_max[pos] for pos, ele in enumerate(manual_maxima.items())}
 """
 
